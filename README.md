@@ -11,3 +11,5 @@ One of my favourite things to do is to play handball - you find me bored, place 
 # My Favourite Books
 Github for Dummies
 The pragmatic Programmer
+# My One Word
+"SERVE"
